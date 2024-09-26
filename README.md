@@ -1,4 +1,4 @@
-
+## 👋 Hi Samroze here
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/syed-samroze-ali-4b2184251) 
 
@@ -9,7 +9,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SyedSamrozeAli&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedSamrozeAli&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ### 🔝 Top Contributed Repo
